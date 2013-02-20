@@ -50,7 +50,7 @@
 
 static const char   mName[] = "TunnelPlayer";
 #define MEM_METADATA_SIZE 64
-#define MEM_BUFFER_SIZE (600*1024 - MEM_METADATA_SIZE)
+#define MEM_BUFFER_SIZE (240*1024 - MEM_METADATA_SIZE)
 #define MEM_BUFFER_COUNT 4
 
 namespace android {
